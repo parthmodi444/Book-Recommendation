@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+li {
+  display: flex;
+  background-color: #063970;
+  border: 1px solid white;
+  margin-bottom: 1.2rem;
+  border-radius: 0.8rem;
+  justify-content: center;
+  color: white;
+}
