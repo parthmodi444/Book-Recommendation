@@ -34,7 +34,7 @@ const favBook = {
 
     {
       Name: "Four hour work week",
-      Desc: "It says tha consistency is the key",
+      Desc: "It says that consistency is the key",
       Rating: `⭐⭐⭐⭐`
     }
   ],
